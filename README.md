@@ -57,15 +57,7 @@ northwind-sql-analysis/
 ## Key Insights
 
 ### Revenue
-- **Beverages was the highest revenue category** at **$267,868** — the clear market leader across all 8 product categories
-- **Top selling product per category highlights:**
-
-| Category ID | Product ID | Revenue |
-|---|---|---|
-| 1 (Beverages) | 38 | $141,397 |
-| 4 | 59 | $71,156 |
-| 6 | 29 | $80,369 |
-| 3 | 62 | $47,235 |
+- **Beverages was the highest revenue category** at **$267,868** — the clear market leader across all 8 product categories. 
 
 ### Employee Performance
 - **Margaret Peacock processed the most orders at 156** — the top performer across all employees
